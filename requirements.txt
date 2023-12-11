@@ -1,0 +1,18 @@
+certifi @ file:///private/tmp/python-certifi-20231117-4919-2f0o9m/certifi-2023.11.17
+cffi @ file:///private/tmp/cffi-20231014-5567-1hyue8f/cffi-1.16.0
+click @ file:///private/tmp/python-click-20231113-5463-1enrr1r/click-8.1.7
+contourpy==1.2.0
+cryptography @ file:///private/tmp/python-cryptography-20231127-6248-fisajh/cryptography-41.0.7
+cycler==0.12.1
+fonttools==4.46.0
+kiwisolver==1.4.5
+matplotlib==3.8.2
+numpy==1.26.2
+packaging==23.2
+Pillow==10.1.0
+pycparser @ file:///private/tmp/pycparser-20231013-5787-1anpge2/pycparser-2.21
+pyparsing==3.1.1
+python-dateutil==2.8.2
+pytz @ file:///private/tmp/python-pytz-20231024-5403-w4fpxw/pytz-2023.3.post1
+PyYAML @ file:///private/tmp/pyyaml-20231018-5610-1rdh755/PyYAML-6.0.1
+six==1.16.0
